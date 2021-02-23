@@ -1,0 +1,9 @@
+{
+    "id": 0069,
+    "video_dir": "/home/pi/Desktop/device_firmware/videos/",
+    "current_image": "/home/pi/Desktop/device_firmware/temp_img.jpg",
+    "current_ad":"/home/pi/Desktop/device_firmware/video_log.txt",
+    "url_analytics": "https://tbukr5c6c6.execute-api.ap-southeast-1.amazonaws.com/dev/api/image-receiver",
+    "url_ctrl": "https://m21lzxg4ag.execute-api.ap-southeast-1.amazonaws.com/prod/device-monitoring",
+    "url_adv" : "https://m21lzxg4ag.execute-api.ap-southeast-1.amazonaws.com/prod/advertising-receiver"
+}

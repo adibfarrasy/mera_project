@@ -1,0 +1,1 @@
+{"device_id": 69, "adv_content": "test_video-01", "timestamp": "2020-08-29 12:23:06"}
