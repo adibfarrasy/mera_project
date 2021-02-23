@@ -1,0 +1,16 @@
+Device Temperature Measurement by Adibaby
+[17/08/2020]
+
+Procedure:
+1. turn on the device.
+2. measure noise with app for every minute 1m away from the device.
+3. terminate test when noise is higher than 62dB. device fails the test.
+4. if average noise per minute is lower than 62dB for 5 minutes, device passes the test.
+
+Test Log:
+[14:21] test started. initial noise 57dB.
+[14:22] noise 55dB.
+[14:23] noise 55dB.
+[14:24] noise 56dB.
+[14:25] noise 56dB.
+[14:26] noise 56dB. test stopped, device passed.
