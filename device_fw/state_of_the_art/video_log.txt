@@ -1,1 +1,0 @@
-{"device_id": 69, "adv_content": "test_video-00", "timestamp": "2021-02-16 14:17:32"}

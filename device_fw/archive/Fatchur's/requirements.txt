@@ -1,9 +1,0 @@
-pika
-scipy
-numpy
-psutils
-opencv-python==3.4.2.17
-qoaladep
-comdutils
-requests
-python-vlc
