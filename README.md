@@ -9,6 +9,17 @@ My startup documentations. Project initiated in July 2020.
 - Manufacturing Engineer
 - Product Owner
 
+## My Key Contributions ##
+- Project Management
+- Concept & Feature Generation
+- Bill of Materials
+- Scalable Hardware Design
+- Scalable Firmware Design
+- Prototyping & Testing
+- Operations Planning
+- QC Planning
+
+
 ## Project Summary ##
 Mera planned to use Raspberry Pi SBC to enable KPI-tracking Digital Out Of Home (DOOH) media players e.g. media reach, media impression, audience gender, etc.\
 The computer vision feature is deployed in an AWS, and the device serves to send video and camera metadata to the AWS database to be inferred by the deployed model.
