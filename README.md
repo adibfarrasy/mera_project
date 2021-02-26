@@ -1,6 +1,13 @@
 # Mera Project #
 My startup documentations. Project initiated in July 2020.
 
+## My Role ##
+- Mechanical Designer
+- Electrical Designer
+- Software Engineer
+- Test Engineer
+- Manufacturing Engineer
+- Product Owner
 
 ## Project Summary ##
 Mera planned to use Raspberry Pi SBC to enable KPI-tracking Digital Out Of Home (DOOH) media players e.g. media reach, media impression, audience gender, etc.\
